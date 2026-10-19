@@ -1,0 +1,8 @@
+:HL["/warwick-wms/_next/static/chunks/1jf_c-4t7qflu.css","style"]
+:HC["/",""]
+:HL["/warwick-wms/_next/static/chunks/0g-z-5fp6hll-.css","style"]
+:HL["/warwick-wms/images/wms-logo.webp","image"]
+:HL["/warwick-wms/images/james-diaz.webp","image"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"committee","h":96,"c":"$Q2"}]]
+0:{"b":"pSYJTPtpK7jCyp5GE_BgD","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

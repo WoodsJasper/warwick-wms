@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://woodsjasper.github.io/warwick-wms/sitemap.xml

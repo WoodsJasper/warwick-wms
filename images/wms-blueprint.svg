@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="720" viewBox="0 0 1000 720" fill="none">
+  <defs><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" stroke="#00285B" stroke-opacity=".09" stroke-width=".7"/></pattern><pattern id="dots" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".7" fill="#00285B" fill-opacity=".1"/></pattern></defs>
+  <path fill="#DCE8F2" d="M0 0h1000v720H0z"/><path fill="url(#grid)" d="M0 0h1000v720H0z"/>
+  <path fill="url(#dots)" d="M610 0h390v300H610z"/>
+  <path d="M-70 611 273 268 617 611 960 268 1170 478" stroke="#A98433" stroke-opacity=".3" stroke-width="1.2"/>
+  <path d="M-70 636 273 293 617 636 960 293 1170 503" stroke="#00285B" stroke-opacity=".12"/>
+  <path d="M754 60h182v182M63 478v180h180" stroke="#00285B" stroke-opacity=".23" stroke-width="1.2"/>
+  <circle cx="273" cy="268" r="5" fill="#A98433" fill-opacity=".5"/><circle cx="617" cy="611" r="5" fill="#A98433" fill-opacity=".5"/>
+</svg>
