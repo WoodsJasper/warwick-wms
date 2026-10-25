@@ -11,6 +11,16 @@
 <priority>0.7</priority>
 </url>
 <url>
+<loc>https://woodsjasper.github.io/warwick-wms/alumni/</loc>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://woodsjasper.github.io/warwick-wms/partnerships/</loc>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
 <loc>https://woodsjasper.github.io/warwick-wms/events/</loc>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
