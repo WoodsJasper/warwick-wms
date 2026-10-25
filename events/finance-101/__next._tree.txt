@@ -1,8 +1,8 @@
-:HL["/warwick-wms/_next/static/chunks/1jf_c-4t7qflu.css","style"]
+:HL["/warwick-wms/_next/static/chunks/2ezorkedokbf-.css","style"]
 :HC["/",""]
 :HL["/warwick-wms/images/wms-logo.webp","image"]
 :HL["/warwick-wms/images/finance-101.webp","image"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"finance-101","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"events","h":131168,"c":"$Q2"}]]
-0:{"b":"cOMIVq1CdTRA8dHISN7hv","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"ou6vRV8-zXWZfBUeoo-lS","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
