@@ -4,6 +4,6 @@ Deployment repository containing only the built website files. The editable sour
 
 Website: https://woodsjasper.github.io/warwick-wms/
 
-Source commit: 72c6aab888faa6d5744ec69199e886a2c7bbb02d
+Source commit: cf030d845d1214ceff68132e9cafd6a6d05dfa66
 
 Third-party software notices: [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt). Image rights remain with their respective holders.
