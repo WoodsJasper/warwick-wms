@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Warwick WMS//Society calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:legacy-mark-slater-fireside-chat@warwick-wms
+DTSTAMP:20261025T224328Z
+LAST-MODIFIED:20261025T224328Z
+SEQUENCE:1
+DTSTART:20261026T140000Z
+DTEND:20261026T150000Z
+SUMMARY:Fireside Chat with Mark Slater
+DESCRIPTION:A fireside chat with the Chairman and CIO of Slater Investments
+  on growth investing\, market cycles and his career.\n\nOriginal society a
+ nnouncement: https://www.instagram.com/warwickhedgefund/p/Dez_AUuM_bj/
+LOCATION:S0.21\, University of Warwick
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

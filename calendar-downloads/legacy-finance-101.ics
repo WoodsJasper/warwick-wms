@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Warwick WMS//Society calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:legacy-finance-101@warwick-wms
+DTSTAMP:20261025T224328Z
+LAST-MODIFIED:20261025T224328Z
+SEQUENCE:1
+DTSTART:20261008T120000Z
+DTEND:20261008T130000Z
+SUMMARY:Finance 101
+DESCRIPTION:A careers panel with six Warwick finance societies covering dif
+ ferent routes into the industry.\n\nOriginal society announcement: https:/
+ /www.instagram.com/warwick.wms/p/DeFOlc1O_HQ/
+LOCATION:FAB 0.03\, University of Warwick
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

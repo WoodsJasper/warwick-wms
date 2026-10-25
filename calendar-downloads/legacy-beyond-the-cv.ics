@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Warwick WMS//Society calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:legacy-beyond-the-cv@warwick-wms
+DTSTAMP:20261025T224328Z
+LAST-MODIFIED:20261025T224328Z
+SEQUENCE:1
+DTSTART:20261006T120000Z
+DTEND:20261006T140000Z
+SUMMARY:Beyond the CV
+DESCRIPTION:A workshop on cover letters\, online assessments\, video interv
+ iews and interview techniques.\n\nOriginal society announcement: https://w
+ ww.instagram.com/wbssociety/p/Dd6Z9X9oKf3/
+LOCATION:Oculus 1.07\, University of Warwick
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

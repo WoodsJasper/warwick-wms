@@ -1,9 +1,11 @@
 # Warwick Wealth Management Society
 
-Deployment repository containing only the built website files. The editable source is maintained privately.
+Public visitor website only. The editable source, account system and member data remain private.
 
 Website: https://woodsjasper.github.io/warwick-wms/
 
-Source commit: 6be12258a1e45b2b7b8a742968f44fb982b33b02
+Source commit: fa19e618e7f15722756241748eb769e822873eb4
 
-Third-party software notices: [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt). Image rights remain with their respective holders.
+Calendar and public announcements are reviewed publication snapshots. Account registration and sign-in are unavailable on this static host.
+
+Third-party notices: [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt).

@@ -1,0 +1,6 @@
+:HL["/warwick-wms/_next/static/css/d07dfa6806f86a39.css","style"]
+:HL["/warwick-wms/_next/static/css/c03b395a27605093.css","style"]
+:HL["/warwick-wms/images/wms-logo.webp","image"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"calendar","h":96,"c":"$Q2"}]]
+0:{"b":"NNqsjk5ojR1RGkFo1fjTT","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
