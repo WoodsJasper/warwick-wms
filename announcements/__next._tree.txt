@@ -1,6 +1,5 @@
 :HL["/warwick-wms/_next/static/css/d07dfa6806f86a39.css","style"]
 :HL["/warwick-wms/images/wms-logo.webp","image"]
-:HL["/warwick-wms/images/mark-slater.webp","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"announcements","h":96,"c":"$Q2"}]]
-0:{"b":"72cIvw1SmSYqZiArfo8dc","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"6oHeHjvRk_AkqKp2sUKDo","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
