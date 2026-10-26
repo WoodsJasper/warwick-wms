@@ -4,7 +4,7 @@ Public visitor website only. The editable source, account system and member data
 
 Website: https://woodsjasper.github.io/warwick-wms/
 
-Source commit: a5ec0bd7cd28234f62d2a4a934d7b6d5992ad0c0
+Source commit: 4571b4bee824ba663166eeb9d7c36d8273a236d2
 
 Calendar, public announcements and member links open the society service at https://warwick-wms.alwaysdata.net/warwick-wms. Published public updates appear there without rebuilding this visitor website. Account information is entered only on that service; this static host has no account forms or member API.
 
