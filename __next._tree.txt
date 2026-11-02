@@ -1,5 +1,4 @@
-:HL["/warwick-wms/_next/static/css/d07dfa6806f86a39.css","style"]
-:HL["/warwick-wms/_next/static/css/a8effe2d165ec0d2.css","style"]
-:HL["/warwick-wms/images/wms-logo.webp","image"]
+:HL["/_next/static/css/19e36190af79a174.css","style"]
+:HL["/_next/static/css/a8effe2d165ec0d2.css","style"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"qsIwYNe0_k6KGmiAwCq1R","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Fs7jsxFzg4jJjX4_c_cdT","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

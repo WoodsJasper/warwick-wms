@@ -1,4 +1,5 @@
 User-Agent: *
-Disallow: /
+Allow: /
+Disallow: /members/
 
-Sitemap: https://woodsjasper.github.io/warwick-wms/sitemap.xml
+Sitemap: https://warwickwms.co.uk/sitemap.xml
