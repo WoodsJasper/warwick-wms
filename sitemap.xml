@@ -11,11 +11,6 @@
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://warwickwms.co.uk/alumni/</loc>
-<changefreq>monthly</changefreq>
-<priority>0.7</priority>
-</url>
-<url>
 <loc>https://warwickwms.co.uk/announcements/</loc>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
@@ -42,11 +37,6 @@
 </url>
 <url>
 <loc>https://warwickwms.co.uk/committee/</loc>
-<changefreq>monthly</changefreq>
-<priority>0.7</priority>
-</url>
-<url>
-<loc>https://warwickwms.co.uk/gallery/</loc>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>

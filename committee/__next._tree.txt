@@ -1,7 +1,7 @@
-:HL["/_next/static/css/19e36190af79a174.css","style"]
+:HL["/_next/static/css/c349847a716d8f93.css","style"]
 :HL["/_next/static/css/2f3d20535e151e6e.css","style"]
 :HL["/images/team/james-diaz.png","image"]
 :HL["/images/team/ashley-qin.jpg","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"committee","h":96,"c":"$Q2"}]]
-0:{"b":"uh4ka5mPEQY-5cuYwac9o","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"6cghKABbVlhzAejv8BOG3","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
